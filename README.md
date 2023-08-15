@@ -1,12 +1,6 @@
 # **Cloud Native Resource Monitoring Python App on K8s!**
 
 
-
-# **the Full Application ! **
-
-![192 168 1 15_5000_](https://github.com/AhmedKhnissi/FLASK_MONITORING_APPLICATION/assets/125920440/b0685b81-cc95-4c67-8d65-e145d60b14c6)
-
-
 ## **Prerequisites** !
 
 (Things to have before starting the projects)
@@ -211,3 +205,6 @@ Once your pod is up and running, run the port-forward to expose the service
 ```bash
 kubectl port-forward service/<service_name> 5000:5000
 ```
+# **the Full Application ! **
+
+![192 168 1 15_5000_](https://github.com/AhmedKhnissi/FLASK_MONITORING_APPLICATION/assets/125920440/b0685b81-cc95-4c67-8d65-e145d60b14c6)
