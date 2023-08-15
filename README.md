@@ -1,13 +1,19 @@
 # **Cloud Native Resource Monitoring Python App on K8s!**
 
 
+
+# **the Full Application ! **
+
+![192 168 1 15_5000_](https://github.com/AhmedKhnissi/FLASK_MONITORING_APPLICATION/assets/125920440/b0685b81-cc95-4c67-8d65-e145d60b14c6)
+
+
 ## **Prerequisites** !
 
 (Things to have before starting the projects)
 
 - [x]  AWS Account.
 - [x]  Programmatic access and AWS configured with CLI.
-- [x]  Python Installed.
+- [x]  Python3 Installed.
 - [x]  Docker and Kubectl installed.
 - [x]  Code editor (Vscode)
 
