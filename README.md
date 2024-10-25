@@ -1,16 +1,5 @@
 # **Cloud Native Resource Monitoring Python App on K8s!**
 
-
-## **Prerequisites** !
-
-(Things to have before starting the projects)
-
-- [x]  AWS Account.
-- [x]  Programmatic access and AWS configured with CLI.
-- [x]  Python3 Installed.
-- [x]  Docker and Kubectl installed.
-- [x]  Code editor (Vscode)
-
 # ✨Let’s Start the Project ✨
 
 ## **Part 1: Deploying the Flask application locally**
